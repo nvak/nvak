@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nvak
+- 👋 Hi, I’m Nickolai Vakulich @nvak
 - 🌱 I’m currently learning Java
 
 <!---
